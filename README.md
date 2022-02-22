@@ -97,7 +97,7 @@ https://github.com/alexandresanlim/Badges4-README.md-Profile
 </p>
 </details>
 
-## Thinks I'd like to learn
+## Things I'd like to learn
 <details open>
 <p>
 
